@@ -27,20 +27,15 @@ Pair Plot:
 
 Installation and Usage
 Clone the Repository:
+git clone [https://github.com/jadeleke/advanced-iris-visualization.git]
+cd advanced-iris-visualization
 
-bash
-Copy code
-git clone https://github.com/<your-username>/iris-data-visualization.git
-cd iris-data-visualization
 Install the Dependencies:
-
-Copy code
 pip install pandas seaborn matplotlib
-Run the Script:
 
-Copy code
-python visualize_iris.py
-Output:
+Run the Script:
+python assign.py
+
 [ The script will generate multiple graphs showcasing the insights derived from the Iris dataset. Each graph provides unique perspectives on the dataset and highlights its statistical properties. ]
 
 Insights from the Visualizations
